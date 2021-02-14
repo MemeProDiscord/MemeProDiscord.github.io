@@ -67,7 +67,7 @@ Yes, because why not :)
 Memes.
 
 ### Source Code
-The source code is free and openly avaliable [here]().
+The source code is free and openly avaliable [here](https://github.com/MemeProDiscord/MemePro).
 
 ### Credits
 Developed by [William Zhang](https://github.com/WilliamHYZhang) in Node.js with the Repl.it, Discord, and Imgflip APIs.
