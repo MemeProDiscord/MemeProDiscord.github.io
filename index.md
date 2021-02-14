@@ -6,7 +6,7 @@ The latest and greatest meme captioning discord bot. Add it to your own server [
 
 ### Overview
 
-This bot allows users to caption memes through custom defined commands. Popular memes have commands predefined for ease of use.
+This bot allows users to caption memes from the **entire** library of imgflip through custom commands! In addition, popular memes have commands preloaded for ease of use.
 
 ![memes](memes.png)
 
