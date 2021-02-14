@@ -14,16 +14,16 @@ This bot allows users to caption memes through custom defined commands. Popular 
 
 Here is a list of the memes that currently have predefined commands.
 
-- `/spongebob`: https://imgflip.com/memetemplate/Mocking-Spongebob
-- `/changemymind`: https://imgflip.com/memetemplate/Change-My-Mind
-- `/twobuttons`: https://imgflip.com/memetemplate/Two-Buttons
-- `/hotlinebling`: https://imgflip.com/memetemplate/Drake-Hotline-Bling
-- `/onedoesnotsimply`: https://imgflip.com/memetemplate/One-Does-Not-Simply
-- `/xxeverywhere`: https://imgflip.com/memetemplate/13026863/TOYSTORY-EVERYWHERE
-- `/cheers`: https://imgflip.com/memetemplate/10933812/wolf-of-wall-street
-- `/doge`: https://imgflip.com/memetemplate/Doge
-- `/grusplan`: https://imgflip.com/memetemplate/Grus-Plan
-- `/headout`: https://imgflip.com/memetemplate/196656673/Imma-head-Out
+- `/spongebob`: [preview](https://imgflip.com/memetemplate/Mocking-Spongebob)
+- `/changemymind`: [preview](https://imgflip.com/memetemplate/Change-My-Mind)
+- `/twobuttons`: [preview](https://imgflip.com/memetemplate/Two-Buttons)
+- `/hotlinebling`: [preview](https://imgflip.com/memetemplate/Drake-Hotline-Bling)
+- `/onedoesnotsimply`: [preview](https://imgflip.com/memetemplate/One-Does-Not-Simply)
+- `/xxeverywhere`: [preview](https://imgflip.com/memetemplate/13026863/TOYSTORY-EVERYWHERE)
+- `/cheers`: [preview](https://imgflip.com/memetemplate/10933812/wolf-of-wall-street)
+- `/doge`: [preview](https://imgflip.com/memetemplate/Doge)
+- `/grusplan`: [preview](https://imgflip.com/memetemplate/Grus-Plan)
+- `/headout`: [preview](https://imgflip.com/memetemplate/196656673/Imma-head-Out)
 
 ### Usage
 
