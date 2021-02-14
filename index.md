@@ -2,7 +2,7 @@
 
 ![troll](troll.jpg)
 
-The latest and greatest meme creation discord bot.
+The latest and greatest meme captioning discord bot. Add it to your own server [here](https://discord.com/oauth2/authorize?client_id=810232729382682677&scope=bot&permissions=52224)!
 
 ### Overview
 
